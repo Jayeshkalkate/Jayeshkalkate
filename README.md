@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Jayesh kalkate
-- 👀 I’m interested in Full Stack Developer .
-- 🌱 I’m currently learning B.Tech in Computer Science .
-- 💞️ I’m looking to collaborate on Web development projects, especially those focused on front-end and back-end integration .
-- 📫 How to reach me Mail Id : kalkatejayesh@gmail.com
-- 😄 Pronouns : Jay
-- ⚡ Fun fact : Me & my friends we once built a complete school website in one night just for project submission !
+👋 **Hi, I’m Jayesh Kalkate**  
+- 👀 I’m passionate about Full Stack Development.  
+- 🌱 I’m currently pursuing a **B.Tech in Computer Science**.  
+- 💞️ I’m eager to collaborate on **web development projects**, especially those involving seamless front-end and back-end integration.  
+- 📫 **How to reach me**: [kalkatejayesh@gmail.com](mailto:kalkatejayesh@gmail.com)  
+- 😄 **Pronouns**: Jay  
+- ⚡ **Fun fact**: My friends and I once built an entire school website in one night for a project submission!  
