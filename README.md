@@ -2,12 +2,12 @@
 
 # 👋 Hi, I'm Jayesh Kalkate
 
-🎓 B.Tech in Computer Engineering (2022–2026)
-🏫 Godavari College of Engineering, Jalgaon (DBATU)
-💻 Full Stack Developer | Cloud & DevOps Learner
-🌐 [Portfolio](https://devjayesh-portfolio.netlify.app)
-📫 Email: [kalkatejayesh@gmail.com](mailto:kalkatejayesh@gmail.com) | 📞 +91 8482998343
-🔗 [LinkedIn](https://www.linkedin.com/in/jayesh-kalkate-31a250242) | 🧑‍💻 [GitHub](https://github.com/Jayeshkalkate)
+🎓 B.Tech in Computer Engineering (2022–2026)  
+🏫 Godavari College of Engineering, Jalgaon (DBATU)  
+💻 Full Stack Developer | Cloud & DevOps Learner  
+🌐 [Portfolio](https://devjayesh-portfolio.netlify.app)  
+📫 Email: [kalkatejayesh@gmail.com](mailto:kalkatejayesh@gmail.com) | 📞 +91 8482998343  
+🔗 [LinkedIn](https://www.linkedin.com/in/jayesh-kalkate-31a250242) | 🧑‍💻 [GitHub](https://github.com/Jayeshkalkate)  
 
 ---
 
