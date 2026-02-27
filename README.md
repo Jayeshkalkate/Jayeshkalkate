@@ -1,108 +1,238 @@
----
-
 # 👋 Hi, I'm Jayesh Kalkate
 
 🎓 B.Tech in Computer Engineering (2022–2026)  
 🏫 Godavari College of Engineering, Jalgaon (DBATU)  
-💻 Full Stack Developer | Cloud & DevOps Learner  
-🌐 [Portfolio](https://devjayesh-portfolio.netlify.app)  
-📫 Email: [kalkatejayesh@gmail.com](mailto:kalkatejayesh@gmail.com) | 📞 +91 8482998343  
-🔗 [LinkedIn](https://www.linkedin.com/in/jayesh-kalkate-31a250242) | 🧑‍💻 [GitHub](https://github.com/Jayeshkalkate)  
+💻 Full Stack Developer | Cloud & DevOps Enthusiast  
+🌐 Portfolio: https://devjayesh-portfolio.netlify.app  
+📫 Email: kalkatejayesh@gmail.com | 📞 +91 8482998343  
+🔗 LinkedIn: https://www.linkedin.com/in/jayesh-kalkate-31a250242  
+🧑‍💻 GitHub: https://github.com/Jayeshkalkate  
 
 ---
 
 ## 🚀 About Me
 
-I’m **Jayesh Rajendra Kalkate**, a passionate and dedicated Computer Engineering student specializing in **Full Stack Development, Data Analysis, and Cloud Technologies**.
+I’m **Jayesh Rajendra Kalkate**, a passionate Computer Engineering student and aspiring **Full Stack + Cloud + DevOps Engineer**.
 
-I’ve built and deployed projects like **Lavkush Furniture (E-commerce)**, **VIndia (Vehicle Showcase)**, **NumTrick Game**, and my **Portfolio Website**.
+I enjoy building **real-world scalable web applications**, deploying them to the cloud, and implementing automation through DevOps practices.
 
-Guided by **Sanatan Dharma values**, I strive for a career that balances growth, peace, and purpose.
+My work focuses on:
+
+✔ Full Stack Web Development  
+✔ Cloud Deployment & Infrastructure  
+✔ DevOps Automation & CI/CD  
+✔ Database Design & Backend Systems  
+✔ Building practical, real-life solutions  
+
+I have built and deployed multiple production-ready projects including:
+
+🪑 Lavkush Furniture – Full E-commerce Platform  
+🚗 VIndia – Vehicle Information Portal  
+📄 ASK_ME – Smart Document Assistant (AI + OCR)  
+🎮 NumTrick – Interactive Game Application  
+🌐 Personal Developer Portfolio  
+
+Guided by **Sanatan Dharma values**, I aim to build a meaningful career that supports my family and contributes positively to society.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### 💻 Languages & Frameworks
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge\&logo=java\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+### 💻 Programming & Frameworks
+- HTML5, CSS3, JavaScript
+- Python
+- Java
+- Django
+- Bootstrap
+- REST API Development
 
 ### 🗄️ Databases
+- MySQL
+- SQLite
+- PostgreSQL (Basics)
 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
+### ☁️ Cloud & DevOps
+- AWS (EC2, S3, RDS)
+- Docker (Containerization)
+- Jenkins (CI/CD)
+- Git & GitHub
+- Linux Administration
+- Deployment: Netlify, Render
+- Cloudinary (Media Storage)
 
-### 🔧 Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge\&logo=netlify\&logoColor=white)
-![Render](https://img.shields.io/badge/Render-00979D?style=for-the-badge\&logo=render\&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge\&logo=cloudinary\&logoColor=white)
+### 🔧 Tools & Development
+- VS Code
+- Postman
+- Agile Workflow
+- Responsive UI Design
+- Authentication Systems
+- Production Deployment
 
 ---
 
 ## 📚 Education
 
-* 🎓 **B.Tech in Computer Engineering (2022–2026)** – GCOE Jalgaon, DBATU
-* 🧪 **Class 12 (PCMB, 2022)** – SMT. Durgabai Raghuvanshi Jr. College, Nandurbar (62.83%)
-* 📘 **Class 10 (2020)** – SMT. Durgabai Raghuvanshi High School, Nandurbar (72.40%)
+🎓 **B.Tech Computer Engineering (2022–2026)**  
+Godavari College of Engineering, Jalgaon – DBATU  
+
+🧪 **Class 12 – PCMB (2022)**  
+SMT. Durgabai Raghuvanshi Jr. College, Nandurbar — 62.83%  
+
+📘 **Class 10 (2020)**  
+SMT. Durgabai Raghuvanshi High School, Nandurbar — 72.40%  
 
 ---
 
-## 💼 Internships
+## 💼 Internship Experience
 
-* **Python Programming Intern** – Prasunet (Mar 2025 – Apr 2025)
-* **Full Stack Developer Intern** – Vaishnav Technologies (Feb 2025 – Mar 2025)
-* **Data Entry Intern** – Rural Field Survey Program (May 2022 – Jun 2022)
+### 💻 Full Stack Developer Intern  
+**Vaishnav Technologies** (Feb 2025 – Mar 2025)
+
+- Built responsive UI using HTML, CSS, JavaScript, Bootstrap
+- Developed backend APIs with Django
+- Implemented authentication and database integration
+- Deployed applications on cloud platforms
+
+### 🐍 Python Programming Intern  
+**Prasunet Technologies** (Mar 2025 – Apr 2025)
+
+- Developed Python-based applications
+- Automated data processing tasks
+- Implemented backend logic and debugging
+
+### 📊 Data Entry Intern  
+**Rural Field Survey Program** (May 2022 – Jun 2022)
+
+- Data collection and analysis
+- Digital record management
 
 ---
 
 ## 📜 Certifications
 
-✔️ Red Hat System Administration I (RH124)
-✔️ Intro to Red Hat OpenShift Applications (DO101)
-✔️ Getting Started with Linux Fundamentals (RH104)
-✔️ Smart India Hackathon (2024)
-✔️ Python & Java – IIT Bombay Spoken Tutorial
-✔️ Web Design & Development – NSDC / Skill India
-✔️ SQL for Data Analysis – Simplilearn
-✔️ Programming with Python 3.x – Simplilearn
-✔️ Basics of Web Scraping (Beautiful Soup) – Simplilearn
-✔️ 6 Days Python Workshop – Passion Software Solutions
-✔️ New Features in Red Hat Enterprise Linux (RH304)
+✔ Red Hat System Administration I (RH124)  
+✔ Introduction to Red Hat OpenShift Applications (DO101)  
+✔ Getting Started with Linux Fundamentals (RH104)  
+✔ Python Training – IIT Bombay Spoken Tutorial  
+✔ Java Training – IIT Bombay Spoken Tutorial  
+✔ Web Design & Development – NSDC / Skill India  
+✔ SQL for Data Analysis – Simplilearn  
+✔ Programming with Python 3.x – Simplilearn  
+✔ Web Scraping with Beautiful Soup – Simplilearn  
+✔ Smart India Hackathon Participant (2024)  
+✔ 6 Days Python Workshop – Passion Software Solutions  
 
 ---
 
-## ✨ Featured Projects
+## ✨ Major Projects
 
-* **🌐 VIndia – Vehicle of India** → [Live Demo](https://vehicles-of-india-vindia.netlify.app)
-* **🪑 Lavkush Furniture (E-commerce)** → [Live Demo](https://lavkushfurniture.onrender.com)
-* **🎮 NumTrick – Number Guessing Game** → [Live Demo](https://numtrick.netlify.app)
-* **👨‍💻 Personal Portfolio** → [Live Demo](https://devjayesh-portfolio.netlify.app)
+### 🪑 Lavkush Furniture — Full Stack E-commerce Platform
+🔗 https://lavkushfurniture.onrender.com  
+
+Features:
+
+✔ User authentication & authorization  
+✔ Product gallery with filtering  
+✔ Wishlist and shopping cart  
+✔ Admin product management  
+✔ Image upload with Cloudinary  
+✔ Payment gateway integration  
+✔ Bulk product upload system  
+✔ Sales analytics dashboard  
+✔ Responsive UI design  
+✔ Cloud deployment (Render)  
+
+Tech Used:
+Django, Python, SQLite, Bootstrap, Cloudinary, AWS, Git
 
 ---
 
-## 📈 Current Focus
+### 🚗 VIndia — Vehicles of India Information Portal
+🔗 https://vehicles-of-india-vindia.netlify.app  
 
-* 🔄 Mastering Full Stack Development
-* ☁️ Learning Cloud & DevOps (AWS, CI/CD)
-* 🧪 Contributing to Open Source Projects
-* 🎯 Preparing for career opportunities in 2025
+Features:
+
+✔ Vehicle categories and details  
+✔ Informational UI system  
+✔ Responsive frontend  
+✔ Static deployment  
+
+Tech Used:
+HTML, CSS, JavaScript, Netlify
 
 ---
 
-*"Guided by values, driven by purpose — I strive to build a career that supports my loved ones and contributes positively to society."*
+### 📄 ASK_ME — Smart Document Assistant (AI + OCR)
+🔗 https://ask-me-smart-document-assistant.onrender.com  
+🔗 https://github.com/Jayeshkalkate/ask_me  
 
-![Profile Views](https://komarev.com/ghpvc/?username=Jayeshkalkate\&color=blue)
+Features:
+
+✔ Document upload and processing  
+✔ OCR text extraction (Tesseract)  
+✔ Smart search & query system  
+✔ AI-assisted document understanding  
+✔ Authentication system  
+✔ Cloud deployment  
+
+Tech Used:
+Django, Python, OCR, AI logic, Cloud hosting
 
 ---
+
+### 🎮 NumTrick — Number Guessing Game
+🔗 https://numtrick.netlify.app  
+
+Features:
+
+✔ Interactive number game  
+✔ Random logic generation  
+✔ Clean responsive UI  
+
+Tech Used:
+JavaScript, HTML, CSS
+
+---
+
+### 🌐 Personal Portfolio Website
+🔗 https://devjayesh-portfolio.netlify.app  
+
+Features:
+
+✔ Skills and projects showcase  
+✔ Resume download  
+✔ Contact system  
+✔ Fully responsive design  
+
+---
+
+## 🎯 Current Learning & Career Focus (2026)
+
+🚀 Advanced Full Stack Development  
+☁️ Cloud Architecture (AWS Services)  
+🐳 Docker & Container Orchestration  
+⚙️ CI/CD Automation with Jenkins  
+🔐 DevSecOps Fundamentals  
+📊 Scalable System Design  
+💼 Preparing for Full Stack / DevOps Engineer Roles  
+
+---
+
+## 🌟 Career Vision
+
+To become a skilled **Full Stack + Cloud + DevOps Engineer** who builds scalable systems, automates infrastructure, and creates meaningful digital solutions that improve lives.
+
+---
+
+## 🤝 Let's Connect
+
+💼 LinkedIn: https://www.linkedin.com/in/jayesh-kalkate-31a250242  
+🧑‍💻 GitHub: https://github.com/Jayeshkalkate  
+🌐 Portfolio: https://devjayesh-portfolio.netlify.app  
+📧 Email: kalkatejayesh@gmail.com  
+
+---
+
+*"Guided by values, driven by purpose — building technology that serves people."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=Jayeshkalkate&color=blue)
