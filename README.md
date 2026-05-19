@@ -1,238 +1,282 @@
 # 👋 Hi, I'm Jayesh Kalkate
 
-🎓 B.Tech in Computer Engineering (2022–2026)  
-🏫 Godavari College of Engineering, Jalgaon (DBATU)  
-💻 Full Stack Developer | Cloud & DevOps Enthusiast  
-🌐 Portfolio: https://devjayesh-portfolio.netlify.app  
-📫 Email: kalkatejayesh@gmail.com | 📞 +91 8482998343  
-🔗 LinkedIn: https://www.linkedin.com/in/jayesh-kalkate-31a250242  
-🧑‍💻 GitHub: https://github.com/Jayeshkalkate  
+🎓 B.Tech Computer Engineering Student (2022–2026)
+🏫 Godavari College of Engineering, Jalgaon (DBATU)
+💻 Full Stack Developer | Cloud & DevOps Enthusiast
+🌱 Passionate about building scalable real-world applications
+
+📍 Maharashtra, India
 
 ---
 
-## 🚀 About Me
+## 🌐 Connect With Me
 
-I’m **Jayesh Rajendra Kalkate**, a passionate Computer Engineering student and aspiring **Full Stack + Cloud + DevOps Engineer**.
-
-I enjoy building **real-world scalable web applications**, deploying them to the cloud, and implementing automation through DevOps practices.
-
-My work focuses on:
-
-✔ Full Stack Web Development  
-✔ Cloud Deployment & Infrastructure  
-✔ DevOps Automation & CI/CD  
-✔ Database Design & Backend Systems  
-✔ Building practical, real-life solutions  
-
-I have built and deployed multiple production-ready projects including:
-
-🪑 Lavkush Furniture – Full E-commerce Platform  
-🚗 VIndia – Vehicle Information Portal  
-📄 ASK_ME – Smart Document Assistant (AI + OCR)  
-🎮 NumTrick – Interactive Game Application  
-🌐 Personal Developer Portfolio  
-
-Guided by **Sanatan Dharma values**, I aim to build a meaningful career that supports my family and contributes positively to society.
+* 🌐 Portfolio: [Portfolio Website](https://devjayesh-portfolio.netlify.app/?utm_source=chatgpt.com)
+* 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/jayesh-kalkate-31a250242?utm_source=chatgpt.com)
+* 🧑‍💻 GitHub: [GitHub Profile](https://github.com/Jayeshkalkate?utm_source=chatgpt.com)
+* 📧 Email: [kalkatejayesh@gmail.com](mailto:kalkatejayesh@gmail.com)
+* 📱 Phone: +91 8482998343
 
 ---
 
-## 🛠️ Technical Skills
+# 🚀 About Me
 
-### 💻 Programming & Frameworks
-- HTML5, CSS3, JavaScript
-- Python
-- Java
-- Django
-- Bootstrap
-- REST API Development
+I’m **Jayesh Rajendra Kalkate**, a passionate Computer Engineering student focused on becoming a skilled **Full Stack + Cloud + DevOps Engineer**.
 
-### 🗄️ Databases
-- MySQL
-- SQLite
-- PostgreSQL (Basics)
+I enjoy creating modern web applications, deploying them on cloud platforms, and learning automation & DevOps workflows.
 
-### ☁️ Cloud & DevOps
-- AWS (EC2, S3, RDS)
-- Docker (Containerization)
-- Jenkins (CI/CD)
-- Git & GitHub
-- Linux Administration
-- Deployment: Netlify, Render
-- Cloudinary (Media Storage)
+### 🔥 Areas of Interest
 
-### 🔧 Tools & Development
-- VS Code
-- Postman
-- Agile Workflow
-- Responsive UI Design
-- Authentication Systems
-- Production Deployment
+* Full Stack Web Development
+* Cloud Computing & AWS
+* DevOps & CI/CD Automation
+* Backend Development
+* Scalable System Design
+* AI-integrated Applications
 
 ---
 
-## 📚 Education
+# 🛠️ Tech Stack
 
-🎓 **B.Tech Computer Engineering (2022–2026)**  
-Godavari College of Engineering, Jalgaon – DBATU  
+## 💻 Languages & Frameworks
 
-🧪 **Class 12 – PCMB (2022)**  
-SMT. Durgabai Raghuvanshi Jr. College, Nandurbar — 62.83%  
+* HTML5
+* CSS3
+* JavaScript
+* Python
+* Java
+* Django
+* Bootstrap
+* REST APIs
 
-📘 **Class 10 (2020)**  
-SMT. Durgabai Raghuvanshi High School, Nandurbar — 72.40%  
+## 🗄️ Databases
 
----
+* MySQL
+* SQLite
+* PostgreSQL (Basics)
 
-## 💼 Internship Experience
+## ☁️ Cloud & DevOps
 
-### 💻 Full Stack Developer Intern  
-**Vaishnav Technologies** (Feb 2025 – Mar 2025)
+* AWS (EC2, S3, RDS)
+* Docker
+* Jenkins
+* Git & GitHub
+* Linux Administration
+* CI/CD Pipelines
+* Netlify
+* Render
+* Cloudinary
 
-- Built responsive UI using HTML, CSS, JavaScript, Bootstrap
-- Developed backend APIs with Django
-- Implemented authentication and database integration
-- Deployed applications on cloud platforms
+## 🔧 Tools
 
-### 🐍 Python Programming Intern  
-**Prasunet Technologies** (Mar 2025 – Apr 2025)
-
-- Developed Python-based applications
-- Automated data processing tasks
-- Implemented backend logic and debugging
-
-### 📊 Data Entry Intern  
-**Rural Field Survey Program** (May 2022 – Jun 2022)
-
-- Data collection and analysis
-- Digital record management
-
----
-
-## 📜 Certifications
-
-✔ Red Hat System Administration I (RH124)  
-✔ Introduction to Red Hat OpenShift Applications (DO101)  
-✔ Getting Started with Linux Fundamentals (RH104)  
-✔ Python Training – IIT Bombay Spoken Tutorial  
-✔ Java Training – IIT Bombay Spoken Tutorial  
-✔ Web Design & Development – NSDC / Skill India  
-✔ SQL for Data Analysis – Simplilearn  
-✔ Programming with Python 3.x – Simplilearn  
-✔ Web Scraping with Beautiful Soup – Simplilearn  
-✔ Smart India Hackathon Participant (2024)  
-✔ 6 Days Python Workshop – Passion Software Solutions  
+* VS Code
+* Postman
+* GitHub Actions
+* Agile Workflow
+* Responsive UI Design
 
 ---
 
-## ✨ Major Projects
+# 📚 Education
 
-### 🪑 Lavkush Furniture — Full Stack E-commerce Platform
-🔗 https://lavkushfurniture.onrender.com  
+### 🎓 B.Tech in Computer Engineering (2022–2026)
 
-Features:
+**Godavari College of Engineering, Jalgaon** — DBATU
 
-✔ User authentication & authorization  
-✔ Product gallery with filtering  
-✔ Wishlist and shopping cart  
-✔ Admin product management  
-✔ Image upload with Cloudinary  
-✔ Payment gateway integration  
-✔ Bulk product upload system  
-✔ Sales analytics dashboard  
-✔ Responsive UI design  
-✔ Cloud deployment (Render)  
+### 🧪 Higher Secondary Education (PCMB)
 
-Tech Used:
-Django, Python, SQLite, Bootstrap, Cloudinary, AWS, Git
+**SMT. Durgabai Raghuvanshi Jr. College, Nandurbar** — 62.83%
+
+### 📘 Secondary Education
+
+**SMT. Durgabai Raghuvanshi High School, Nandurbar** — 72.40%
 
 ---
 
-### 🚗 VIndia — Vehicles of India Information Portal
-🔗 https://vehicles-of-india-vindia.netlify.app  
+# 🚀 Featured Projects
 
-Features:
+## 🪑 Lavkush Furniture — Full Stack E-Commerce Platform
 
-✔ Vehicle categories and details  
-✔ Informational UI system  
-✔ Responsive frontend  
-✔ Static deployment  
+🔗 Live: [Lavkush Furniture Live Demo](https://lavkushfurniture.onrender.com/?utm_source=chatgpt.com)
 
-Tech Used:
-HTML, CSS, JavaScript, Netlify
+### Features
 
----
+* User Authentication & Authorization
+* Product Filtering & Categories
+* Wishlist & Shopping Cart
+* Admin Dashboard
+* Cloudinary Image Upload
+* Payment Integration
+* Sales Analytics
+* Responsive UI
 
-### 📄 ASK_ME — Smart Document Assistant (AI + OCR)
-🔗 https://ask-me-smart-document-assistant.onrender.com  
-🔗 https://github.com/Jayeshkalkate/ask_me  
+### Tech Stack
 
-Features:
-
-✔ Document upload and processing  
-✔ OCR text extraction (Tesseract)  
-✔ Smart search & query system  
-✔ AI-assisted document understanding  
-✔ Authentication system  
-✔ Cloud deployment  
-
-Tech Used:
-Django, Python, OCR, AI logic, Cloud hosting
+`Django` `Python` `Bootstrap` `SQLite` `Cloudinary` `AWS`
 
 ---
 
-### 🎮 NumTrick — Number Guessing Game
-🔗 https://numtrick.netlify.app  
+## 🚗 VIndia — Vehicles of India Information Portal
 
-Features:
+🔗 Live: [VIndia Live Demo](https://vehicles-of-india-vindia.netlify.app/?utm_source=chatgpt.com)
 
-✔ Interactive number game  
-✔ Random logic generation  
-✔ Clean responsive UI  
+### Features
 
-Tech Used:
-JavaScript, HTML, CSS
+* Informational Vehicle Portal
+* Categorized Vehicle Data
+* Responsive Frontend
+* Optimized Static Deployment
 
----
+### Tech Stack
 
-### 🌐 Personal Portfolio Website
-🔗 https://devjayesh-portfolio.netlify.app  
-
-Features:
-
-✔ Skills and projects showcase  
-✔ Resume download  
-✔ Contact system  
-✔ Fully responsive design  
+`HTML` `CSS` `JavaScript` `Netlify`
 
 ---
 
-## 🎯 Current Learning & Career Focus (2026)
+## 📄 ASK_ME — Smart Document Assistant (AI + OCR)
 
-🚀 Advanced Full Stack Development  
-☁️ Cloud Architecture (AWS Services)  
-🐳 Docker & Container Orchestration  
-⚙️ CI/CD Automation with Jenkins  
-🔐 DevSecOps Fundamentals  
-📊 Scalable System Design  
-💼 Preparing for Full Stack / DevOps Engineer Roles  
+🔗 Live: [ASK_ME Live Demo](https://ask-me-smart-document-assistant.onrender.com?utm_source=chatgpt.com)
+🔗 GitHub: [ASK_ME Repository](https://github.com/Jayeshkalkate/ask_me?utm_source=chatgpt.com)
 
----
+### Features
 
-## 🌟 Career Vision
+* OCR-based Text Extraction
+* Smart Document Search
+* AI-assisted Query Handling
+* Authentication System
+* Cloud Deployment
 
-To become a skilled **Full Stack + Cloud + DevOps Engineer** who builds scalable systems, automates infrastructure, and creates meaningful digital solutions that improve lives.
+### Tech Stack
 
----
-
-## 🤝 Let's Connect
-
-💼 LinkedIn: https://www.linkedin.com/in/jayesh-kalkate-31a250242  
-🧑‍💻 GitHub: https://github.com/Jayeshkalkate  
-🌐 Portfolio: https://devjayesh-portfolio.netlify.app  
-📧 Email: kalkatejayesh@gmail.com  
+`Django` `Python` `Tesseract OCR` `AI Logic`
 
 ---
 
-*"Guided by values, driven by purpose — building technology that serves people."*
+## 🌍 LokSetu — Maharashtra Digital Village Connectivity Platform
 
+### Features
+
+* Maharashtra-wide Village Connectivity System
+* District → Taluka → Village Hierarchy
+* Citizen Service Access
+* Local Issue Reporting
+* Digital Governance Support
+* Community Information Portal
+
+### Tech Stack
+
+`Django` `Python` `PostgreSQL` `Bootstrap` `AWS`
+
+---
+
+## 🎮 NumTrick — Interactive Number Game
+
+🔗 Live: [NumTrick Live Demo](https://numtrick.netlify.app?utm_source=chatgpt.com)
+
+### Features
+
+* Interactive Gameplay
+* Random Logic Engine
+* Responsive Design
+
+### Tech Stack
+
+`JavaScript` `HTML` `CSS`
+
+---
+
+## 🌐 Personal Portfolio Website
+
+🔗 Live: [Developer Portfolio](https://devjayesh-portfolio.netlify.app/?utm_source=chatgpt.com)
+
+### Features
+
+* Skills Showcase
+* Projects Showcase
+* Resume Download
+* Contact Integration
+* Fully Responsive Design
+
+---
+
+# 💼 Experience
+
+## 💻 Full Stack Developer Intern
+
+**Vaishnav Technologies** *(Feb 2025 – Mar 2025)*
+
+* Developed responsive frontend interfaces
+* Built backend APIs using Django
+* Worked on authentication systems
+* Assisted with deployment workflows
+
+---
+
+## 🐍 Python Programming Intern
+
+**Prasunet Technologies** *(Mar 2025 – Apr 2025)*
+
+* Developed Python-based applications
+* Worked on automation scripts
+* Improved debugging & backend logic skills
+
+---
+
+# 📜 Certifications
+
+* Red Hat System Administration I (RH124)
+* Introduction to Red Hat OpenShift Applications (DO101)
+* Linux Fundamentals (RH104)
+* Python Training — IIT Bombay
+* Java Training — IIT Bombay
+* Web Design & Development — NSDC / Skill India
+* SQL for Data Analysis — Simplilearn
+* Programming with Python 3.x — Simplilearn
+* Web Scraping with Beautiful Soup — Simplilearn
+* Smart India Hackathon Participant
+* Python Workshop — Passion Software Solutions
+
+---
+
+# 🎯 Current Focus
+
+* Advanced Full Stack Development
+* AWS Cloud Architecture
+* Docker & Containerization
+* Jenkins CI/CD Automation
+* DevSecOps Fundamentals
+* Scalable Backend Systems
+
+---
+
+# 🌟 Career Goal
+
+To become a professional **Full Stack + Cloud + DevOps Engineer** who builds scalable applications and meaningful technology solutions that positively impact people and communities.
+
+---
+
+# 📊 GitHub Stats
+
+```md
+![Jayesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jayeshkalkate&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayeshkalkate&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Jayeshkalkate&theme=tokyonight)
+```
+
+---
+
+# 🤝 Let's Connect
+
+⭐ If you like my work, consider following me on GitHub and connecting on LinkedIn.
+
+> *"Guided by values, driven by purpose — building technology that serves people."*
+
+---
+
+```md
 ![Profile Views](https://komarev.com/ghpvc/?username=Jayeshkalkate&color=blue)
+```
+
+Based on your uploaded markdown profile data. 
