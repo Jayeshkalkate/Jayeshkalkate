@@ -278,5 +278,3 @@ To become a professional **Full Stack + Cloud + DevOps Engineer** who builds sca
 ```md
 ![Profile Views](https://komarev.com/ghpvc/?username=Jayeshkalkate&color=blue)
 ```
-
-Based on your uploaded markdown profile data. 
