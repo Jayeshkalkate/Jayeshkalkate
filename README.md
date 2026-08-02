@@ -23,7 +23,7 @@
 
 I'm **Jayesh Rajendra Kalkate**, a final-year Computer Engineering student with a strong passion for building scalable web applications, cloud infrastructure, and automation workflows. My journey in tech has been shaped by hands-on experience across full-stack development, DevOps practices, and cloud computing.
 
-With a solid foundation in **Python, Django, and PostgreSQL**, I've developed end-to-end applications ranging from e-commerce platforms to AI-powered document assistants and governance portals. I'm equally comfortable working on the frontend with responsive designs and on the backend with REST APIs, authentication systems, and database architecture.
+With a solid foundation in **Python, Django, and PostgreSQL**, I've developed end-to-end applications ranging from e-commerce platforms to AI-powered document assistants, governance portals, and cyber cafe management systems. I'm equally comfortable working on the frontend with responsive designs and on the backend with REST APIs, authentication systems, and database architecture.
 
 My DevOps skills include **Docker containerization, Jenkins CI/CD pipelines, Linux administration, and AWS cloud services** — enabling me to deploy and manage applications in production environments. I'm currently deepening my expertise in cloud architecture, infrastructure automation, and DevSecOps practices.
 
@@ -145,23 +145,23 @@ I believe in building technology that serves people, and I'm driven to create me
 
 # 🚀 Featured Projects
 
-## 🌍 **LokSetu** — Maharashtra Digital Village Connectivity Platform
+## 🖥️ **Cyber Cafe** — Web-Based Cyber Cafe Management System
 
-🔗 **Live Demo** | 📂 **GitHub**
+🔗 [Live Demo](https://matoshree-cyber.onrender.com/) | 📂 [GitHub](https://github.com/Jayeshkalkate/Matoshree-Cyber)
 
-- Built a governance platform for complaints, schemes, fund tracking, and project monitoring
-- Implemented RBAC and secure authentication for multiple user roles
-- Developed announcement and location management modules using Django ORM
-- Designed scalable database architecture and responsive user interfaces
-- Supported district → taluka → village hierarchy for digital governance
+- Developed a comprehensive cyber cafe management platform using Django
+- Implemented real-time computer session tracking, automated billing, and usage monitoring
+- Streamlined customer check-in/out with dynamic session cost calculation
+- Built an admin dashboard for managing systems, rates, and daily revenue reports
+- Deployed on Render with a responsive, user-friendly interface
 
-**Tech Stack:** `Django` `Python` `PostgreSQL` `Bootstrap` `AWS`
+**Tech Stack:** `Django` `Python` `PostgreSQL` `Bootstrap` `Render`
 
 ---
 
 ## 🎬 **MoviesHub** — Telegram-Integrated Movie Discovery Platform
 
-🔗 **Live Demo** | 📂 **GitHub**
+🔗 [Live Demo](https://movies-hub-6dhp.onrender.com) | 📂 [GitHub](https://github.com/Jayeshkalkate/Movies-Hub)
 
 - Developed a movie discovery platform with Telegram Bot integration
 - Implemented membership verification, watchlists, downloads, and content indexing
@@ -174,7 +174,7 @@ I believe in building technology that serves people, and I'm driven to create me
 
 ## 📄 **ASK_ME** — AI-Powered Smart Document Assistant
 
-🔗 **Live Demo** | 📂 **GitHub**
+🔗 [Live Demo](https://ask-me-smart-document-assistant.onrender.com/) | 📂 [GitHub](https://github.com/Jayeshkalkate/ask_me)
 
 - Built an AI-powered document assistant for secure document upload and processing
 - Implemented OCR-based text extraction and smart document search
@@ -185,9 +185,23 @@ I believe in building technology that serves people, and I'm driven to create me
 
 ---
 
+## 🌍 **LokSetu** — Maharashtra Digital Village Connectivity Platform
+
+🔗 **Live Demo (Coming Soon)** | 📂 [GitHub](https://github.com/Jayeshkalkate/loksetu)
+
+- Built a governance platform for complaints, schemes, fund tracking, and project monitoring
+- Implemented RBAC and secure authentication for multiple user roles
+- Developed announcement and location management modules using Django ORM
+- Designed scalable database architecture and responsive user interfaces
+- Supported district → taluka → village hierarchy for digital governance
+
+**Tech Stack:** `Django` `Python` `PostgreSQL` `Bootstrap` `AWS`
+
+---
+
 ## 🪑 **Lavkush Furniture** — Full-Stack E-Commerce Platform
 
-🔗 **Live Demo** | 📂 **GitHub**
+🔗 [Live Demo](https://lavkushfurniture.onrender.com/) | 📂 [GitHub](https://github.com/Jayeshkalkate/lavkushfurniture)
 
 - Developed a complete e-commerce platform with authentication, cart, wishlist, and reviews
 - Integrated Cloudinary for media management and optimized image delivery
@@ -200,7 +214,7 @@ I believe in building technology that serves people, and I'm driven to create me
 
 ## 🚗 **VIndia** — Vehicles of India Discovery Platform
 
-🔗 **Live Demo** | 📂 **GitHub**
+🔗 [Live Demo](https://vehicles-of-india-vindia.netlify.app/) | 📂 [GitHub](https://github.com/Jayeshkalkate/vindia)
 
 - Developed a responsive vehicle discovery platform with search, filtering, and comparison
 - Designed multiple user-facing modules including vehicle details, support, feedback, and policies
@@ -212,7 +226,7 @@ I believe in building technology that serves people, and I'm driven to create me
 
 ## 🎮 **NumTrick** — Interactive Number Game
 
-🔗 **Live Demo**
+🔗 [Live Demo](https://numtrick.netlify.app/) | 📂 [GitHub](https://github.com/Jayeshkalkate/numtrick)
 
 - Built an interactive number game with random logic engine
 - Designed fully responsive interface for all devices
@@ -223,7 +237,7 @@ I believe in building technology that serves people, and I'm driven to create me
 
 ## 🌐 **Personal Portfolio Website**
 
-🔗 **Live Demo**
+🔗 [Live Demo](https://devjayesh-portfolio.netlify.app/) | 📂 [GitHub](https://github.com/Jayeshkalkate/portfolio)
 
 - Showcases skills, projects, and professional journey
 - Includes resume download and contact integration
