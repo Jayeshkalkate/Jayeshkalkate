@@ -133,6 +133,17 @@ I believe in building technology that serves people, and I'm driven to create me
 
 # 🚀 Featured Projects
 
+## 📒 **KhataLink** — Multi-Shop Digital Khata (Udhaar) Network
+
+🔗 [Live Demo](https://khatalink.onrender.com) | 📂 [GitHub](https://github.com/Jayeshkalkate/khatalink)
+
+- Built a customer-controlled digital khata where multiple shops record udhaar and customers see all dues across linked shops in one place
+- Implemented owner, shop and customer roles with a dispute workflow for contested entries
+- UPI payment support and downloadable PDF account statements using ReportLab
+- Deployed on Render with Neon PostgreSQL and Cloudinary media storage
+
+**Tech Stack:** `Django` `Python` `PostgreSQL` `JavaScript` `Cloudinary` `ReportLab` `Render`
+
 ## 🏢 **Matoshree** — Government Services & CSC Portal
 
 🔗 [Live Demo](https://matoshree-cyber.onrender.com/) | 📂 [GitHub](https://github.com/Jayeshkalkate/Matoshree-Cyber)
