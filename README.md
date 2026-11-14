@@ -26,7 +26,7 @@ I build secure, database-driven web applications with **Django and PostgreSQL** 
 - 🧾 Designed an **append-only ledger** and a **multi-tenant** data model (KhataLink)
 - 💳 Integrated **Razorpay** with signature-verified, HMAC-validated webhooks (Lavkush Furniture)
 - 🤖 Used **Google Gemini** for document understanding and natural-language search (Ask Me, MoviesHub)
-- ✅ Wrote **190+ automated tests** across four projects, with **GitHub Actions CI** on two
+- ✅ Wrote **Automated tests using multiple ai tools** across four projects, with **GitHub Actions CI** on two
 - ☁️ Deploying on Render and Netlify, and learning Docker, Jenkins and AWS for production workflows
 - 🔷 Learning **.NET (C#)** every day and applying it on my current project, **SceneSeek**
 
@@ -45,7 +45,7 @@ I build secure, database-driven web applications with **Django and PostgreSQL** 
 | **MoviesHub** | Movie, TV and anime discovery with Gemini-powered search, cinematic universe watch orders, multi-source metadata (TMDB, TVMaze, Jikan, AniList) and a Telegram bot. | Django, PostgreSQL, Redis, AWS S3 | [Live](https://movies-hub-6dhp.onrender.com) · [Code](https://github.com/Jayeshkalkate/Movies-Hub) |
 | **VIndia** | Responsive vehicle discovery site: 350+ models from 42+ brands, live search, cascading filters, side-by-side comparison. | HTML, CSS, Bootstrap, JavaScript | [Live](https://vehicles-of-india-vindia.netlify.app/) · [Code](https://github.com/Jayeshkalkate/VIndia) |
 | **LokSetu** | Civic complaint platform: evidence uploads, automatic department routing, tracking IDs, role-scoped dashboards, throttling and audit entries. **73 tests + CI.** | Django, PostgreSQL, GitHub Actions | [Live](https://lok-setu.onrender.com) · [Code](https://github.com/Jayeshkalkate/loksetu) |
-| **SceneSeek** *(in progress)* | My current project, built with .NET (C#) while I learn the platform and apply it each day alongside my Django work. | .NET, C# | [Code](https://github.com/Jayeshkalkate/SceneSeek) |
+| **SceneSeek** | My recent project, built with .NET (C#) while I learn the platform and apply it each day alongside my Django work, used ai tools mostly to build it. | .NET, C# | [Live](https://sceneseek-web.onrender.com) · [Code](https://github.com/Jayeshkalkate/SceneSeek) |
 | **NumTrick** | Interactive number-guessing game. | HTML, CSS, JavaScript | [Live](https://numtrick.netlify.app/) |
 
 > Free-tier hosting (Render) can take up to a minute to wake up on the first visit.
