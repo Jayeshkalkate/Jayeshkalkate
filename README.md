@@ -1,113 +1,299 @@
-<div align="center">
+ <div align="center">
 
 # Hi, I'm Jayesh Kalkate 👋
 
-### Python Backend & Full Stack Developer
-**Django • PostgreSQL • REST APIs • Payments • AI integrations • .NET (C#)**
+### Backend Developer | Python & Django Developer
 
-2026 B.Tech Computer Engineering graduate (DBATU) from Jalgaon, Maharashtra, India
-🎯 Open to **Python / Django / Backend / junior .NET Developer** roles as a fresher
+**Python • Django • PostgreSQL • REST APIs • Payment Integrations • AI APIs • .NET (C#)**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-devjayesh--portfolio.netlify.app-5b8cff?style=for-the-badge&logo=netlify&logoColor=white)](https://devjayesh-portfolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jayesh%20Kalkate-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayesh-kalkate-31a250242/)
-[![Email](https://img.shields.io/badge/Email-kalkatejayesh%40gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalkatejayesh@gmail.com)
+🎓 B.Tech Computer Engineering Graduate (2026) | DBATU, Maharashtra, India
 
-[![Resume](https://img.shields.io/badge/Resume-PDF-2dd4bf?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://devjayesh-portfolio.netlify.app/assets/docs/Jayesh_Kalkate_Resume.pdf)
-[![Cover Letter](https://img.shields.io/badge/Cover%20Letter-PDF-2dd4bf?style=for-the-badge&logo=readme&logoColor=white)](https://devjayesh-portfolio.netlify.app/assets/docs/Jayesh_Kalkate_Cover_Letter.pdf)
+🚀 Building secure, scalable and database-driven web applications.
+
+**Open to opportunities:** Python Developer | Django Developer | Backend Developer | Junior .NET Developer
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-5b8cff?style=for-the-badge&logo=netlify&logoColor=white)](https://devjayesh-portfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayesh-kalkate-31a250242/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalkatejayesh@gmail.com)
+
+[![Resume](https://img.shields.io/badge/Resume-Download-2dd4bf?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://devjayesh-portfolio.netlify.app/assets/docs/Jayesh_Kalkate_Resume.pdf)
+[![Cover Letter](https://img.shields.io/badge/Cover%20Letter-View%20PDF-2dd4bf?style=for-the-badge&logo=readme&logoColor=white)](https://devjayesh-portfolio.netlify.app/assets/docs/Jayesh_Kalkate_Cover_Letter.pdf)
 
 </div>
 
 ---
 
-## 👨‍💻 About me
+## 👨‍💻 About Me
 
-I build secure, database-driven web applications with **Django and PostgreSQL** and deploy them live. I like the parts of backend work that have to be correct: authentication, payments, data integrity and testing.
+I'm a Backend Developer specializing in **Python, Django and PostgreSQL**, with hands-on experience building, testing and deploying full-stack web applications.
 
-- 🧾 Designed an **append-only ledger** and a **multi-tenant** data model (KhataLink)
-- 💳 Integrated **Razorpay** with signature-verified, HMAC-validated webhooks (Lavkush Furniture)
-- 🤖 Used **Google Gemini** for document understanding and natural-language search (Ask Me, MoviesHub)
-- ✅ Wrote **Automated tests using multiple ai tools** across four projects, with **GitHub Actions CI** on two
-- ☁️ Deploying on Render and Netlify, and learning Docker, Jenkins and AWS for production workflows
-- 🔷 Learning **.NET (C#)** every day and applying it on my current project, **SceneSeek**
+I enjoy solving practical engineering problems, especially those involving backend architecture, database design, authentication, payment processing, API integrations and application security.
 
-**How I build:** I use AI-assisted ("vibe") coding. I write the prompts for tools like ChatGPT, Claude and DeepSeek, then review, test and integrate the generated code myself. I don't type every line by hand, and I decide the design and requirements and verify the output before it ships.
+### What I Work On
 
----
+- 🏗️ **Backend Engineering:** Building database-driven applications using Django, Django ORM and PostgreSQL.
+- 🔐 **Security & Authentication:** Implementing email OTP authentication, RBAC, rate limiting, encryption and audit logging.
+- 💳 **Payment Integrations:** Integrating Razorpay with signature verification, HMAC-validated webhooks and secure inventory updates.
+- 🤖 **AI Integrations:** Using Google Gemini APIs for document understanding, intelligent search and AI-powered features.
+- ⚡ **Performance:** Working with Redis caching, ORM optimization and efficient database queries.
+- 🧪 **Testing & CI/CD:** Writing automated tests and implementing GitHub Actions workflows.
+- ☁️ **Deployment:** Deploying applications using Render and Netlify, while learning Docker, Jenkins and AWS.
 
-## 🚀 Featured projects
+### My Development Approach
 
-| Project | What it does | Stack | Links |
-|---|---|---|---|
-| **KhataLink** | Consent-based, multi-shop digital khata (udhaar) network. Shops record dues, customers see balances across linked shops. Per-shop tenant isolation, append-only ledger with audit logging, email-OTP login with throttling, dispute threads, UPI links, PDF statements. **77 tests.** | Django, PostgreSQL (Neon), Redis, Cloudinary, ReportLab | [Live](https://khatalink.onrender.com) · [Code](https://github.com/Jayeshkalkate/KhataLink) |
-| **Matoshree** | Government services (CSC) portal: service applications, document uploads and verification, appointment booking with double-booking prevention, PDF receipts, optional Razorpay, job and scheme scraper. **14 tests.** | Django, PostgreSQL, Razorpay, BeautifulSoup, ReportLab | [Live](https://matoshree-cyber.onrender.com) · [Code](https://github.com/Jayeshkalkate/Matoshree-Cyber) |
-| **Ask Me** | AI document assistant. Gemini's vision API extracts fields from 26 ID document types, a chatbot answers only from your own documents, data encrypted at rest, installable offline PWA. | Django, Gemini API, PWA, IndexedDB, Fernet | [Live](https://ask-me-smart-document-assistant.onrender.com) · [Code](https://github.com/Jayeshkalkate/ask_me) |
-| **Lavkush Furniture** | E-commerce store with cart, wishlist, orders, returns and PDF receipts. Razorpay with HMAC-verified webhooks, row-locked stock, automatic refunds. **29 tests + CI.** | Django, PostgreSQL, Razorpay, Docker | [Live](https://lavkushfurniture.onrender.com) · [Code](https://github.com/Jayeshkalkate/Lavkush_Furniture) |
-| **MoviesHub** | Movie, TV and anime discovery with Gemini-powered search, cinematic universe watch orders, multi-source metadata (TMDB, TVMaze, Jikan, AniList) and a Telegram bot. | Django, PostgreSQL, Redis, AWS S3 | [Live](https://movies-hub-6dhp.onrender.com) · [Code](https://github.com/Jayeshkalkate/Movies-Hub) |
-| **VIndia** | Responsive vehicle discovery site: 350+ models from 42+ brands, live search, cascading filters, side-by-side comparison. | HTML, CSS, Bootstrap, JavaScript | [Live](https://vehicles-of-india-vindia.netlify.app/) · [Code](https://github.com/Jayeshkalkate/VIndia) |
-| **LokSetu** | Civic complaint platform: evidence uploads, automatic department routing, tracking IDs, role-scoped dashboards, throttling and audit entries. **73 tests + CI.** | Django, PostgreSQL, GitHub Actions | [Live](https://lok-setu.onrender.com) · [Code](https://github.com/Jayeshkalkate/loksetu) |
-| **SceneSeek** | My recent project, built with .NET (C#) while I learn the platform and apply it each day alongside my Django work, used ai tools mostly to build it. | .NET, C# | [Live](https://sceneseek-web.onrender.com) · [Code](https://github.com/Jayeshkalkate/SceneSeek) |
-| **NumTrick** | Interactive number-guessing game. | HTML, CSS, JavaScript | [Live](https://numtrick.netlify.app/) |
+I use AI-assisted development tools such as ChatGPT, Claude and DeepSeek to accelerate development, explore solutions and debug problems.
 
-> Free-tier hosting (Render) can take up to a minute to wake up on the first visit.
+I write detailed prompts, define requirements, review generated code, run applications, test functionality and integrate the results myself. I focus on understanding the implementation rather than blindly accepting generated code.
 
 ---
 
-## 🛠️ Tech stack
+## 🚀 Featured Projects
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,cs,dotnet,postgres,sqlite,redis,js,html,css,bootstrap,docker,git,github,githubactions,linux,aws,netlify,vscode&perline=10" alt="Tech stack icons" />
+Here are some of the projects I've designed, developed and deployed.
+
+### 1. KhataLink — Multi-Shop Digital Khata Network
+
+**Tech Stack:** Django, PostgreSQL, Redis, Cloudinary, ReportLab
+
+A consent-based digital ledger platform that connects multiple shops and customers, allowing customers to track outstanding dues across linked shops.
+
+- Designed a multi-tenant architecture with shop-level data isolation.
+- Implemented an append-only ledger with audit logging and idempotency protection.
+- Built email OTP authentication with account-level and IP-level throttling.
+- Implemented role-based access control for customers, shop owners, managers and cashiers.
+- Added dispute management, UPI payment links, reminders and PDF statements.
+- Developed **77 automated tests**.
+
+🔗 [Live Demo](https://khatalink.onrender.com) | [Source Code](https://github.com/Jayeshkalkate/KhataLink)
+
+### 2. Lavkush Furniture — E-Commerce Platform
+
+**Tech Stack:** Django, PostgreSQL, Razorpay, Cloudinary, ReportLab, Docker
+
+A full-stack e-commerce application with secure payment processing and inventory management.
+
+- Developed shopping cart, wishlist, order history and return management.
+- Integrated Razorpay with server-side order creation and signature verification.
+- Implemented HMAC-validated payment webhooks.
+- Used database row locking for safer inventory updates.
+- Added automatic refund handling for stock-related payment failures.
+- Developed bulk CSV/XLSX product imports.
+- Created **29 automated tests and GitHub Actions CI**.
+
+🔗 [Live Demo](https://lavkushfurniture.onrender.com) | [Source Code](https://github.com/Jayeshkalkate/Lavkush_Furniture)
+
+### 3. Ask Me — AI-Powered Document Assistant
+
+**Tech Stack:** Django, PostgreSQL, Google Gemini API, PWA, IndexedDB, Fernet
+
+An AI-powered document assistant that extracts structured information from identity documents and provides document-based conversational assistance.
+
+- Integrated Gemini Vision API for extracting structured information from document images and PDFs.
+- Supports multiple identity document types.
+- Developed a chatbot grounded in the user's own documents.
+- Implemented Fernet encryption for sensitive extracted data at rest.
+- Added expiring document-sharing links and reminders.
+- Built an installable, offline-capable Progressive Web App.
+
+🔗 [Live Demo](https://ask-me-smart-document-assistant.onrender.com) | [Source Code](https://github.com/Jayeshkalkate/ask_me)
+
+### 4. Matoshree — Government Services & CSC Portal
+
+**Tech Stack:** Django, PostgreSQL, Razorpay, BeautifulSoup, Cloudinary, ReportLab
+
+A government-services portal designed to manage service applications, document verification and appointment bookings.
+
+- Developed service application and document verification workflows.
+- Implemented appointment booking with double-booking prevention.
+- Added PDF receipts and optional Razorpay checkout.
+- Built a job and government scheme scraper using BeautifulSoup.
+- Created an admin dashboard with optimized aggregate queries.
+- Developed **14 automated tests**.
+
+🔗 [Live Demo](https://matoshree-cyber.onrender.com) | [Source Code](https://github.com/Jayeshkalkate/Matoshree-Cyber)
+
+### 5. MoviesHub — Movie, TV & Anime Discovery Platform
+
+**Tech Stack:** Django, PostgreSQL, Redis, Google Gemini, AWS S3
+
+A content discovery platform for movies, television series and anime.
+
+- Integrated TMDB, TVMaze, Jikan and AniList APIs.
+- Implemented Gemini-powered natural-language search.
+- Developed cinematic universe grouping and watch-order features.
+- Used Redis caching to reduce unnecessary external API requests.
+- Integrated a Telegram bot with webhook support.
+
+🔗 [Live Demo](https://movies-hub-6dhp.onrender.com) | [Source Code](https://github.com/Jayeshkalkate/Movies-Hub)
+
+### 6. LokSetu — Civic Complaint Management Platform
+
+**Tech Stack:** Django, PostgreSQL, GitHub Actions
+
+A civic complaint platform designed to help citizens submit complaints and track their progress.
+
+- Implemented complaint submission with evidence uploads.
+- Added automatic department routing and complaint tracking IDs.
+- Developed role-based dashboards and audit entries.
+- Implemented request throttling.
+- Created **73 automated tests and GitHub Actions CI**.
+
+🔗 [Live Demo](https://lok-setu.onrender.com) | [Source Code](https://github.com/Jayeshkalkate/loksetu)
+
+### 7. SceneSeek — Movie, Series & Anime Finder
+
+**Tech Stack:** ASP.NET Core, C#, Python, Next.js, PostgreSQL, Docker
+
+My latest project, developed while learning .NET and exploring cross-stack application development.
+
+- Built an application that attempts to identify movies, series and anime from screenshots or short clips.
+- Developed an ASP.NET Core API with a Python processing worker.
+- Built the frontend using Next.js.
+- Used AI-assisted development tools while learning .NET fundamentals.
+- Worked on Docker-based deployment and GitHub Actions CI.
+
+🔗 [Live Demo](https://sceneseek-web.onrender.com) | [Source Code](https://github.com/Jayeshkalkate/SceneSeek)
+
+### 8. VIndia — Vehicles of India
+
+**Tech Stack:** HTML5, CSS3, Bootstrap 5, JavaScript
+
+A responsive vehicle discovery platform featuring:
+
+- 350+ vehicle models from 42+ brands.
+- Live search and cascading filters.
+- Vehicle comparison functionality.
+- Responsive user interface.
+
+🔗 [Live Demo](https://vehicles-of-india-vindia.netlify.app/) | [Source Code](https://github.com/Jayeshkalkate/VIndia)
+
+### 9. NumTrick — Number Guessing Game
+
+**Tech Stack:** HTML, CSS, JavaScript
+
+An interactive browser-based number-guessing game.
+
+🔗 [Live Demo](https://numtrick.netlify.app/)
+
+> Note: Applications deployed on Render's free tier may take some time to start after periods of inactivity.
+
+---
+
+## 🛠️ Technical Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,cs,dotnet,postgres,sqlite,redis,js,html,css,bootstrap,docker,git,github,githubactions,linux,aws,netlify,vscode&perline=10" alt="Technical skills" />
 </p>
 
-| Area | Technologies |
+| Category | Technologies |
 |---|---|
-| **Languages** | Python, .NET (C#, learning), SQL, JavaScript, HTML5, CSS3 (Java basics) |
-| **Backend** | Django, Django ORM, REST API integration, webhooks, query optimization |
-| **Auth & security** | Email-OTP login (Brevo), RBAC, rate limiting, CSRF protection, audit logging, Fernet encryption, HMAC verification |
-| **Integrations** | Razorpay, Google Gemini API, Telegram Bot API, Cloudinary, AWS S3, ReportLab (PDF), BeautifulSoup |
-| **Data & caching** | PostgreSQL (Neon), SQLite, Redis (Upstash) |
-| **Testing & DevOps** | Django Test Framework, GitHub Actions, Docker, Jenkins (training), Linux, Git Bash |
+| **Programming Languages** | Python, JavaScript, SQL, C# (Learning), Java (Basics) |
+| **Backend Development** | Django, Django ORM, Migrations, Management Commands, REST API Integration, Webhooks |
+| **Databases** | PostgreSQL, SQLite, Redis, Schema Design, Query Optimization |
+| **Authentication & Security** | Email OTP, RBAC, Rate Limiting, CSRF Protection, Input Validation, Audit Logging, Fernet Encryption, HMAC Verification |
+| **API Integrations** | Razorpay, Google Gemini, Telegram Bot API, TMDB, TVMaze, Jikan, AniList |
+| **Frontend Development** | HTML5, CSS3, Bootstrap 5, JavaScript, Progressive Web Apps |
+| **Cloud & DevOps** | Git, GitHub, GitHub Actions, Docker, Linux, Jenkins, Ansible, Bash, AWS Basics |
 | **Deployment** | Render, Netlify, Gunicorn, WhiteNoise |
-| **AI-assisted development** | ChatGPT, Claude, DeepSeek: prompt, review, test, integrate |
+| **Testing** | Django Test Framework, Unit Testing, Automated Testing |
+| **Other Tools** | Cloudinary, ReportLab, BeautifulSoup |
+| **AI-Assisted Development** | ChatGPT, Claude, DeepSeek |
 
 ---
 
 ## 💼 Experience
 
-- **Python Programming Intern**, Prasunet (remote), Mar 2025 – Apr 2025: Python scripting, file handling, functions and modular code.
-- **Full Stack Developer Intern**, Vaishnav Technologies (remote), Feb 2025 – Mar 2025: Django apps with HTML, CSS, JavaScript and Bootstrap; deployed on Render with Cloudinary; Git and GitHub workflow.
-- **Data Entry Intern**, Rural Field Survey Program, May 2022 – Jun 2022: survey data collection and validation in Excel.
+**Python Programming Intern — Prasunet**
+
+*Remote | March 2025 – April 2025*
+
+- Worked on Python programming, scripting and file handling.
+- Practiced functions, modular programming and problem-solving.
+
+**Full Stack Developer Intern — Vaishnav Technologies**
+
+*Remote | February 2025 – March 2025*
+
+- Developed web applications using Django, HTML, CSS, JavaScript and Bootstrap.
+- Worked with Cloudinary for media management.
+- Deployed applications on Render.
+- Followed Git and GitHub workflows.
+
+**Data Entry Intern — Rural Field Survey Program**
+
+*May 2022 – June 2022*
+
+- Participated in survey data collection and validation.
+- Managed structured information using Microsoft Excel.
+
+---
 
 ## 🎓 Education
 
-**B.Tech in Computer Engineering** (2022 – 2026), Godavari College of Engineering, Jalgaon (DBATU), CGPA 7.2/10
+**Bachelor of Technology — Computer Engineering**
 
-## 📜 Certifications
+Godavari College of Engineering, Jalgaon (DBATU)
 
-Red Hat **RH124**, **DO101**, **RH104**, **RH304** · Simplilearn **Python 3.x**, **SQL for Data Analysis**, **Web Scraping with Beautiful Soup** · NSDC / Skill India **Web Design & Development** · IIT Bombay Spoken Tutorial **Python** and **Java** · 6-Day Python Workshop · Smart India Hackathon (2024)
-
-[View all certificates](https://drive.google.com/drive/folders/1Iwxvmfb4jzhRlW1Vq3ToGJekdggKDhWM?usp=drive_link)
-
----
-
-## 🎯 What I'm focused on now
-
-- Learning **.NET (C#)** every day and building **SceneSeek** with it
-- Going deeper on Django internals, testing and database design
-- Docker, CI/CD pipelines and AWS fundamentals
-- Looking for a **Python / Django / Backend / junior .NET Developer** role where I can learn from a strong team
+- Duration: 2022 – 2026
+- CGPA: 7.2 / 10
+- Graduation Year: 2026
 
 ---
 
-## 📊 GitHub stats
+## 📜 Certifications & Training
+
+- **Red Hat:** RH124, RH104, DO101, RH304.
+- **Simplilearn:** Python 3.x, SQL for Data Analysis, Web Scraping with BeautifulSoup.
+- **NSDC / Skill India:** Web Design & Development.
+- **IIT Bombay Spoken Tutorial:** Python and Java.
+- **DevOps Bootcamp:** Jenkins, Docker, Linux, AWS, Ansible and Bash Scripting.
+- **Smart India Hackathon:** 2024.
+- **Python Programming Workshop:** 6-Day Workshop.
+
+📄 [View All Certifications](https://drive.google.com/drive/folders/1Iwxvmfb4jzhRlW1Vq3ToGJekdggKDhWM?usp=drive_link)
+
+---
+
+## 🎯 Current Focus & Career Goals
+
+- Strengthening my expertise in Python, Django and PostgreSQL.
+- Learning .NET (C#) and building real-world applications with ASP.NET Core.
+- Improving backend architecture, database optimization and application security.
+- Exploring Docker, CI/CD, Jenkins and AWS fundamentals.
+- Writing better automated tests and building reliable applications.
+- Looking for an opportunity to contribute to a development team, learn from experienced engineers and grow as a Backend Developer.
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jayeshkalkate&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayeshkalkate&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jayeshkalkate&show_icons=true&theme=tokyonight&hide_border=true" alt="Jayesh's GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayeshkalkate&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jayeshkalkate&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+---
 
 <div align="center">
 
-**📫 Reach me:** [kalkatejayesh@gmail.com](mailto:kalkatejayesh@gmail.com) · +91 84829 98343
-⭐ If you like my work, follow me on GitHub and connect on LinkedIn.
+### 🤝 Let's Connect!
+
+I'm always open to connecting with developers, recruiters and technology enthusiasts.
+
+**📧 Email:** [kalkatejayesh@gmail.com](mailto:kalkatejayesh@gmail.com)
+
+**📱 Phone:** +91 84829 98343
+
+**🌐 Portfolio:** [devjayesh-portfolio.netlify.app](https://devjayesh-portfolio.netlify.app/)
+
+**💼 LinkedIn:** [Jayesh Kalkate](https://www.linkedin.com/in/jayesh-kalkate-31a250242/)
+
+⭐ If you find my projects interesting, consider giving them a star!
+
+*Building, learning and improving — one project at a time.*
 
 </div>
