@@ -66,7 +66,65 @@ A consent-based digital ledger platform that connects multiple shops and custome
 
 🔗 [Live Demo](https://khatalink.onrender.com) | [Source Code](https://github.com/Jayeshkalkate/KhataLink)
 
-### 2. Lavkush Furniture — E-Commerce Platform
+### 2. Ask Me — AI-Powered Document Assistant
+
+**Tech Stack:** Django, PostgreSQL, Google Gemini API, PWA, IndexedDB, Fernet
+
+An AI-powered document assistant that extracts structured information from identity documents and provides document-based conversational assistance.
+
+- Integrated Gemini Vision API for extracting structured information from document images and PDFs.
+- Supports multiple identity document types.
+- Developed a chatbot grounded in the user's own documents.
+- Implemented Fernet encryption for sensitive extracted data at rest.
+- Added expiring document-sharing links and reminders.
+- Built an installable, offline-capable Progressive Web App.
+
+🔗 [Live Demo](https://ask-me-smart-document-assistant.onrender.com) | [Source Code](https://github.com/Jayeshkalkate/ask_me)
+
+### 3. Matoshree — Government Services & CSC Portal
+
+**Tech Stack:** Django, PostgreSQL, Razorpay, BeautifulSoup, Cloudinary, ReportLab
+
+A government-services portal designed to manage service applications, document verification and appointment bookings.
+
+- Developed service application and document verification workflows.
+- Implemented appointment booking with double-booking prevention.
+- Added PDF receipts and optional Razorpay checkout.
+- Built a job and government scheme scraper using BeautifulSoup.
+- Created an admin dashboard with optimized aggregate queries.
+- Developed **14 automated tests**.
+
+🔗 [Live Demo](https://matoshree-cyber.onrender.com) | [Source Code](https://github.com/Jayeshkalkate/Matoshree-Cyber)
+
+### 4. MoviesHub — Movie, TV & Anime Discovery Platform
+
+**Tech Stack:** Django, PostgreSQL, Redis, Google Gemini, AWS S3
+
+A content discovery platform for movies, television series and anime.
+
+- Integrated TMDB, TVMaze, Jikan and AniList APIs.
+- Implemented Gemini-powered natural-language search.
+- Developed cinematic universe grouping and watch-order features.
+- Used Redis caching to reduce unnecessary external API requests.
+- Integrated a Telegram bot with webhook support.
+
+🔗 [Live Demo](https://movies-hub-6dhp.onrender.com) | [Source Code](https://github.com/Jayeshkalkate/Movies-Hub)
+
+### 5. SceneSeek — Movie, Series & Anime Finder
+
+**Tech Stack:** ASP.NET Core, C#, Python, Next.js, PostgreSQL, Docker
+
+My latest project, developed while learning .NET and exploring cross-stack application development.
+
+- Built an application that attempts to identify movies, series and anime from screenshots or short clips.
+- Developed an ASP.NET Core API with a Python processing worker.
+- Built the frontend using Next.js.
+- Used AI-assisted development tools while learning .NET fundamentals.
+- Worked on Docker-based deployment and GitHub Actions CI.
+
+🔗 [Live Demo](https://sceneseek-web.onrender.com) | [Source Code](https://github.com/Jayeshkalkate/SceneSeek)
+
+### 6. Lavkush Furniture — E-Commerce Platform
 
 **Tech Stack:** Django, PostgreSQL, Razorpay, Cloudinary, ReportLab, Docker
 
@@ -82,51 +140,7 @@ A full-stack e-commerce application with secure payment processing and inventory
 
 🔗 [Live Demo](https://lavkushfurniture.onrender.com) | [Source Code](https://github.com/Jayeshkalkate/Lavkush_Furniture)
 
-### 3. Ask Me — AI-Powered Document Assistant
-
-**Tech Stack:** Django, PostgreSQL, Google Gemini API, PWA, IndexedDB, Fernet
-
-An AI-powered document assistant that extracts structured information from identity documents and provides document-based conversational assistance.
-
-- Integrated Gemini Vision API for extracting structured information from document images and PDFs.
-- Supports multiple identity document types.
-- Developed a chatbot grounded in the user's own documents.
-- Implemented Fernet encryption for sensitive extracted data at rest.
-- Added expiring document-sharing links and reminders.
-- Built an installable, offline-capable Progressive Web App.
-
-🔗 [Live Demo](https://ask-me-smart-document-assistant.onrender.com) | [Source Code](https://github.com/Jayeshkalkate/ask_me)
-
-### 4. Matoshree — Government Services & CSC Portal
-
-**Tech Stack:** Django, PostgreSQL, Razorpay, BeautifulSoup, Cloudinary, ReportLab
-
-A government-services portal designed to manage service applications, document verification and appointment bookings.
-
-- Developed service application and document verification workflows.
-- Implemented appointment booking with double-booking prevention.
-- Added PDF receipts and optional Razorpay checkout.
-- Built a job and government scheme scraper using BeautifulSoup.
-- Created an admin dashboard with optimized aggregate queries.
-- Developed **14 automated tests**.
-
-🔗 [Live Demo](https://matoshree-cyber.onrender.com) | [Source Code](https://github.com/Jayeshkalkate/Matoshree-Cyber)
-
-### 5. MoviesHub — Movie, TV & Anime Discovery Platform
-
-**Tech Stack:** Django, PostgreSQL, Redis, Google Gemini, AWS S3
-
-A content discovery platform for movies, television series and anime.
-
-- Integrated TMDB, TVMaze, Jikan and AniList APIs.
-- Implemented Gemini-powered natural-language search.
-- Developed cinematic universe grouping and watch-order features.
-- Used Redis caching to reduce unnecessary external API requests.
-- Integrated a Telegram bot with webhook support.
-
-🔗 [Live Demo](https://movies-hub-6dhp.onrender.com) | [Source Code](https://github.com/Jayeshkalkate/Movies-Hub)
-
-### 6. LokSetu — Civic Complaint Management Platform
+### 7. LokSetu — Civic Complaint Management Platform
 
 **Tech Stack:** Django, PostgreSQL, GitHub Actions
 
@@ -139,20 +153,6 @@ A civic complaint platform designed to help citizens submit complaints and track
 - Created **73 automated tests and GitHub Actions CI**.
 
 🔗 [Live Demo](https://lok-setu.onrender.com) | [Source Code](https://github.com/Jayeshkalkate/loksetu)
-
-### 7. SceneSeek — Movie, Series & Anime Finder
-
-**Tech Stack:** ASP.NET Core, C#, Python, Next.js, PostgreSQL, Docker
-
-My latest project, developed while learning .NET and exploring cross-stack application development.
-
-- Built an application that attempts to identify movies, series and anime from screenshots or short clips.
-- Developed an ASP.NET Core API with a Python processing worker.
-- Built the frontend using Next.js.
-- Used AI-assisted development tools while learning .NET fundamentals.
-- Worked on Docker-based deployment and GitHub Actions CI.
-
-🔗 [Live Demo](https://sceneseek-web.onrender.com) | [Source Code](https://github.com/Jayeshkalkate/SceneSeek)
 
 ### 8. VIndia — Vehicles of India
 
@@ -176,7 +176,6 @@ An interactive browser-based number-guessing game.
 🔗 [Live Demo](https://numtrick.netlify.app/)
 
 > Note: Applications deployed on Render's free tier may take some time to start after periods of inactivity.
-
 ---
 
 ## 🛠️ Technical Skills
