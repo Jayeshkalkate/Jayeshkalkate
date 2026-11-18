@@ -2,7 +2,7 @@
 
 # Hi, I'm Jayesh Kalkate 👋
 
-### Python · Django · PostgreSQL · REST APIs
+### Python · Django · SQL · REST APIs
 
 **Backend Developer & Full Stack Developer (Fresher) · B.Tech Computer Engineering, 2026 · Maharashtra, India**
 
