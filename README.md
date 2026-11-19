@@ -2,187 +2,278 @@
 
 # Hi, I'm Jayesh Kalkate 👋
 
-### Python · Django · SQL · REST APIs
+### Python · Django · Backend Development · PostgreSQL
 
-**Backend Developer & Full Stack Developer (Fresher) · B.Tech Computer Engineering, 2026 · Maharashtra, India**
+**B.Tech Computer Engineering (2026) | Maharashtra, India**
 
-I build, test and deploy database-driven web applications, from the data model to payments, security and CI.
+I build practical, database-driven web applications by starting with a real problem, planning a solution, and developing the features needed to make it useful.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-5b8cff?style=for-the-badge&logo=netlify&logoColor=white)](https://devjayesh-portfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayesh-kalkate-31a250242/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalkatejayesh@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-PDF-2dd4bf?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://devjayesh-portfolio.netlify.app/assets/docs/Jayesh_Kalkate_Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-View-2dd4bf?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://devjayesh-portfolio.netlify.app/assets/docs/Jayesh_Kalkate_Resume.pdf)
 
-**Open to:** Python Developer · Django Developer · Backend Developer · Full Stack Developer · Junior DevOps / Cloud · Junior .NET
+**Open to opportunities:** Python Developer · Django Developer · Backend Developer · Junior Full-Stack Developer
 
 </div>
 
 ---
 
-## About
+## About me
 
-I'm a 2026 B.Tech Computer Engineering graduate who has built and deployed several web applications with **Python, Django and PostgreSQL**. I like owning a feature end to end: requirements, data model, implementation, testing and deployment.
+I'm a Computer Engineering graduate (2026) focused on **Python, Django and backend development**. Most of my learning has come from building applications around problems I have seen in everyday life, college, and my community—not simply reproducing tutorial projects.
 
-**At a glance**
+My usual process is to understand the problem, map out a solution, plan the features, design the data model, build and integrate the application, then run it and deploy it. I enjoy working across the backend, database, APIs, authentication, and the parts of the frontend needed to make a complete product.
 
-- 💳 Payments: Razorpay checkout, signature verification, HMAC-validated webhooks
-- 🔐 Security: email OTP, role-based access control, rate limiting, audit logging, Fernet encryption
-- 🤖 AI integration: Google Gemini for document extraction and natural-language search
-- 🚀 Delivery: GitHub Actions CI, Docker, Render
+I also use AI tools such as ChatGPT, Claude and DeepSeek to explore approaches, understand unfamiliar code, and debug. I write the requirements and prompts, review the generated changes, run the application, and take responsibility for the final implementation and deployment.
 
-**How I work with AI tools:** I use ChatGPT, Claude and DeepSeek for debugging, exploring approaches and implementing automated tests. The tests in my projects were implemented using AI tools, not written manually. I define the requirements, review the generated code, run and test the application, and take responsibility for the final result.
+### What I work with
+
+- **Backend:** Python, Django, Django ORM, REST API integration, webhooks
+- **Databases and caching:** PostgreSQL, SQLite, Redis
+- **Security:** Email OTP, role-based access control, rate limiting, CSRF protection, input validation, audit logging, Fernet encryption, HMAC verification
+- **Integrations:** Razorpay, Google Gemini, Telegram Bot API, TMDB, TVMaze, Jikan, AniList, Cloudinary, Brevo
+- **Frontend:** HTML, CSS, Bootstrap, JavaScript, Progressive Web Apps
+- **Tools and deployment:** Git, GitHub, GitHub Actions, Docker, Linux, Render, Netlify
+- **Currently learning:** C# and ASP.NET Core; continuing to strengthen cloud and DevOps fundamentals
 
 ---
 
-## Featured Projects
+## Projects
 
-> Live demos on Render's free tier may take a short while to wake up after inactivity.
+Each project began with a different problem or idea. These are working applications and active builds, not just classroom write-ups. Project availability and feature scope can vary by deployment; see each repository for the current source.
 
-### 1. KhataLink: Multi-Shop Digital Khata Network
-**Django · PostgreSQL (Neon) · Redis · Cloudinary · ReportLab**
-A consent-based digital ledger linking shops and customers so customers can track dues across shops.
-- Multi-tenant data model with shop-level query scoping
-- Append-only ledger (void/correct instead of delete) with audit logging and idempotency keys
-- Email OTP login with per-account and per-IP throttling; roles for customers, owners, managers, cashiers and admins
-- Dispute threads, UPI payment links, due-date reminders, expiring share links, PDF statements
-- Automated tests implemented using AI tools
+### 1. KhataLink — Multi-Shop Digital Khata Network
 
-[Live Demo](https://khatalink.onrender.com) · [Code](https://github.com/Jayeshkalkate/KhataLink)
+**The problem:** Shopkeepers and customers often rely on handwritten udhaar records or scattered messages. It can be difficult to keep records consistent, check balances across shops, or resolve a disagreement about an entry or payment.
 
-### 2. Ask Me: AI Document Assistant
-**Django · PostgreSQL · Google Gemini · PWA · IndexedDB · Fernet**
-Extracts structured data from identity-document images and PDFs and answers questions grounded in the user's own documents.
-- Gemini Vision with schema-constrained extraction (Aadhaar, PAN, passport, driving licence)
-- Fuzzy field matching and a document-grounded chatbot
-- Extracted data encrypted at rest with Fernet; expiring share links; expiry reminders
-- Installable, offline-capable PWA (service worker + IndexedDB)
+**The solution:** KhataLink is a consent-based digital ledger connecting customers with multiple shops. Each shop manages its own records, while customers can see dues from the shops they have connected to.
 
-[Live Demo](https://ask-me-smart-document-assistant.onrender.com) · [Code](https://github.com/Jayeshkalkate/ask_me)
+**Key features**
+- Multi-tenant data model with shop-scoped queries to keep each shop's records separate
+- Append-only ledger: entries can be voided or corrected rather than silently deleted
+- Email OTP authentication, role-based access for customers, shop owners, managers, cashiers and administrators
+- Audit logging and idempotency keys to help prevent duplicate submissions
+- Dispute conversations, UPI payment links, due-date reminders, expiring share links and PDF statements
 
-### 3. Matoshree: CSC / Government Services Portal
-**Django · PostgreSQL · Razorpay · BeautifulSoup · Cloudinary · ReportLab**
-- Service applications with document uploads and verification states
-- Appointment booking with double-booking prevention
-- Manual UPI/cash verification, optional Razorpay checkout, PDF receipts
-- Job and government-scheme scraper with retry logic and caching; aggregate-query admin dashboard
-- Automated tests implemented using AI tools
+**Tech stack:** Python, Django, PostgreSQL (Neon), Redis, Cloudinary, ReportLab, Brevo
 
-[Live Demo](https://matoshree-cyber.onrender.com) · [Code](https://github.com/Jayeshkalkate/Matoshree-Cyber)
+[Live Demo](https://khatalink.onrender.com) · [GitHub Repository](https://github.com/Jayeshkalkate/KhataLink)
 
-### 4. MoviesHub: Movie, TV and Anime Discovery
-**Django · PostgreSQL · Redis · Google Gemini · Telegram Bot API**
-- Combines TMDB, TVMaze, Jikan and AniList metadata
-- Gemini-assisted natural-language search and recommendations
-- Auto-linking to group titles into cinematic universes and watch orders
-- Redis caching to cut repeated external API calls; Telegram bot via webhooks with a Telethon backfill command
-- *Note: AWS S3 storage is integrated but currently disabled in the live deployment.*
+---
 
-[Live Demo](https://movies-hub-6dhp.onrender.com) · [Code](https://github.com/Jayeshkalkate/Movies-Hub)
+### 2. Lavkush Furniture — E-Commerce and Business Management Platform
 
-### 5. SceneSeek: Movie, Series and Anime Finder
-**ASP.NET Core (C#) · Python · Next.js · PostgreSQL (Neon) · Docker · GitHub Actions**
-A cross-stack project that tries to identify a movie, series or anime from a screenshot or short clip. Built while learning .NET (C#) fundamentals.
-- ASP.NET Core API plus a Python worker for OCR and frame extraction
-- Web interface built with Next.js
-- Docker Compose deployment and a GitHub Actions CI workflow
-- Built with AI-assisted tools while learning the .NET stack; I run, review and test the application myself
+**The problem:** In our family furniture shop, sharing product photos and explaining prices, materials, and product details individually took time. I saw an opportunity to build a platform that could make product discovery and shop operations easier.
 
-[Live Demo](https://sceneseek-web.onrender.com) · [Code](https://github.com/Jayeshkalkate/SceneSeek)
+**The solution:** I started by learning Python and Django, then developed an online furniture catalogue and store. The project grew to include customer shopping features and a business dashboard for managing day-to-day operations.
 
-### 6. Lavkush Furniture: E-Commerce Platform
-**Django · PostgreSQL · Razorpay · Cloudinary · ReportLab · Docker**
-- Search and filters, guest-cart merge on login, wishlists, order history, returns, PDF receipts
-- Server-side Razorpay order creation, payment-signature verification and an HMAC-validated webhook
-- Row-level locks for inventory updates; automatic refunds on stock-related payment failures
+**Key features**
+- Product gallery with single and bulk uploads, furniture catalogue, search and filters
+- Shopping cart, wishlist, order history, returns flow and PDF receipts
+- Business dashboard for sales, orders, payments, customers, coupons, products, categories, reviews and team management
+- Razorpay checkout with server-side order creation and payment-signature verification
+- HMAC-validated payment webhook and row-locked inventory updates, with refund handling for stock-related payment failures
 - Validated bulk CSV/XLSX product import
-- Automated tests implemented using AI tools; GitHub Actions CI
 
-[Live Demo](https://lavkushfurniture.onrender.com) · [Code](https://github.com/Jayeshkalkate/Lavkush_Furniture)
+**Tech stack:** Python, Django, PostgreSQL, SMTP, Razorpay, Cloudinary, ReportLab, Docker
 
----
-
-## More Projects
-
-| # | Project | What it is | Stack | Links |
-|---|---|---|---|---|
-| 1 | **VIndia** | Vehicle discovery site: 350+ models, 42+ brands, live search, cascading Type → Brand → Model filters, side-by-side comparison | HTML, CSS, Bootstrap 5, JavaScript | [Demo](https://vehicles-of-india-vindia.netlify.app/) · [Code](https://github.com/Jayeshkalkate/VIndia) |
-| 2 | **LokSetu** | Civic complaint platform: complaint submission with evidence uploads and tracking IDs, automatic department routing, role-scoped dashboards, request throttling, audit entries, CI for deployment and migration checks | Django, PostgreSQL, GitHub Actions | [Demo](https://lok-setu.onrender.com) · [Code](https://github.com/Jayeshkalkate/loksetu) |
+[Live Demo](https://lavkushfurniture.onrender.com) · [GitHub Repository](https://github.com/Jayeshkalkate/Lavkush_Furniture)
 
 ---
 
-## Technical Skills
+### 3. Ask Me — Secure AI Document Assistant
+
+**The problem:** At college, we were often asked for details such as student IDs and university registration numbers. Finding the correct document photo or PDF each time—or searching through physical files when a copy was unavailable—was inconvenient.
+
+**The solution:** Ask Me lets users store identity and certificate documents, extract useful fields, review the extracted information, and ask questions based on their own saved documents.
+
+**Key features**
+- Upload support for PDF, JPG, PNG and TIFF files, with predefined document types including Aadhaar, PAN, passport and driving licence
+- OCR and Gemini-assisted extraction, followed by structured field matching
+- Users can review, edit, add or remove extracted fields before saving
+- Fuzzy field matching and a chatbot grounded in the user's own documents
+- Extracted data encrypted at rest using Fernet
+- Installable, offline-capable PWA using a service worker and IndexedDB; previously saved information can be accessed offline
+- Expiring share links and document-expiry reminders
+
+**Tech stack:** Python, Django, PostgreSQL, Google Gemini API, OCR, JavaScript, IndexedDB, Fernet, PWA, Cloudinary
+
+[Live Demo](https://ask-me-smart-document-assistant.onrender.com) · [GitHub Repository](https://github.com/Jayeshkalkate/ask_me)
+
+---
+
+### 4. MoviesHub — Movies, Series and Anime Discovery Platform
+
+**The problem:** My friends and I shared recommendations and content in a Telegram group. Finding a title by its name, getting reliable metadata or a trailer, and following a story across a cinematic universe often meant searching across several websites and messages.
+
+**The solution:** MoviesHub brings discovery information together in one place. It combines metadata from multiple services, helps users search in natural language, groups related titles into universes, and connects the platform with a Telegram bot.
+
+**Key features**
+- Metadata integration with TMDB, TVMaze, Jikan and AniList
+- Gemini-assisted natural-language search and recommendations
+- Featured and recently shared content, trailer links, and title search
+- Automatic linking of related titles into cinematic universes and watch orders
+- User content requests and Telegram bot integration through webhooks, with a Telethon backfill command
+- Owner dashboard for managing titles, categories, users and other content
+- Redis caching to reduce repeated external API calls
+
+**Tech stack:** Python, Django, PostgreSQL (Neon), Redis, Google Gemini, TMDB, TVMaze, Jikan, AniList, Telegram Bot API
+
+*Note: AWS S3 storage is integrated in the project but is currently disabled in the live deployment.*
+
+[Live Demo](https://movies-hub-6dhp.onrender.com) · [GitHub Repository](https://github.com/Jayeshkalkate/Movies-Hub)
+
+---
+
+### 5. Matoshree — Common Service Centre (CSC) Portal
+
+**The problem:** Applying for a service such as an income certificate can involve finding the required documents, collecting copies, visiting a service centre, and later trying to find out the application's status. The process can be confusing when information is spread across different places.
+
+**The solution:** Matoshree brings service information and application steps into one portal, connecting applicants with the service centre's staff and management workflows.
+
+**Key features**
+- Service listings, required-document information, service charges and downloadable forms
+- Online service applications with document uploads and verification statuses
+- Appointment booking with double-booking prevention
+- Application tracking, announcements, reviews and job/scheme updates
+- Job and government-scheme information gathered through web scraping, with caching
+- User, owner and admin dashboards for managing the relevant records
+- Manual UPI/cash payment verification, optional Razorpay checkout and PDF receipts
+
+**Tech stack:** Python, Django, PostgreSQL, Redis, Razorpay, BeautifulSoup, Cloudinary, ReportLab
+
+[Live Demo](https://matoshree-cyber.onrender.com) · [GitHub Repository](https://github.com/Jayeshkalkate/Matoshree-Cyber)
+
+---
+
+### 6. SceneSeek — Screenshot-Based Movie, Series and Anime Finder
+
+**The problem:** Sometimes you remember a scene or have a screenshot or short clip, but do not know the title of the movie, series or anime it came from. Searching by title is not helpful when the title itself is unknown.
+
+**The solution:** SceneSeek is a cross-stack project that accepts a screenshot, image, short video clip or video URL and attempts to find matching screen content. It is connected with MoviesHub to link discovery with the wider catalogue.
+
+**Key features**
+- ASP.NET Core API built with C#
+- Python worker for OCR and video-frame extraction
+- Next.js web interface
+- Input through screenshots, images, short clips and video URLs
+- Connection with MoviesHub for related content discovery
+
+**Tech stack:** C#, ASP.NET Core, Python, Next.js, PostgreSQL (Neon), Docker, GitHub Actions
+
+*This is also my hands-on project for learning .NET and ASP.NET Core alongside my Django work. Recognition is an ongoing area of development.*
+
+[Live Demo](https://sceneseek-web.onrender.com) · [GitHub Repository](https://github.com/Jayeshkalkate/SceneSeek)
+
+---
+
+### 7. VIndia — Vehicles of India Discovery Platform
+
+**The problem:** When I wanted to compare vehicles, I found it difficult to view different models and their features together in one place. This became the idea for my first website, which I built during my third year.
+
+**The solution:** I learned HTML, CSS and JavaScript by creating a vehicle discovery site. I collected and organised vehicle information into JSON data and built filters and comparison views around it.
+
+**Key features**
+- Information covering 350+ vehicle models from 42+ brands
+- Live search and cascading Type → Brand → Model filters
+- Side-by-side vehicle comparison
+- Responsive static website hosted on Netlify
+
+**Tech stack:** HTML5, CSS3, Bootstrap 5, JavaScript, JSON, Netlify
+
+[Live Demo](https://vehicles-of-india-vindia.netlify.app/) · [GitHub Repository](https://github.com/Jayeshkalkate/VIndia)
+
+---
+
+### 8. LokSetu — Civic Complaint and Transparency Platform
+
+**The problem:** In smaller towns and local areas, citizens may find it difficult to submit a complaint to the right department and follow what happens next. My broader idea is to make public-service activity easier to understand and improve transparency around local issues and public work.
+
+**The current build:** LokSetu is a civic complaint platform where citizens can submit complaints with evidence and track them, while departments work through role-scoped dashboards. The larger vision—including dependable public information and fund-use transparency—needs verified official data and further development.
+
+**Implemented areas**
+- Complaint submission with evidence uploads and unique tracking IDs
+- Automatic department routing and role-scoped dashboards
+- Login throttling, file validation and audit entries
+- GitHub Actions pipeline for deployment and migration checks
+
+**Tech stack:** Python, Django, PostgreSQL (Neon), GitHub Actions
+
+*Status: In development; the wider public-data and transparency vision is not yet fully implemented.*
+
+[Live Demo](https://lok-setu.onrender.com) · [GitHub Repository](https://github.com/Jayeshkalkate/loksetu)
+
+---
+
+## Technical skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,postgres,sqlite,redis,js,html,css,bootstrap,docker,git,github,githubactions,linux,cs,dotnet&perline=8" alt="Python, Django, PostgreSQL, SQLite, Redis, JavaScript, HTML, CSS, Bootstrap, Docker, Git, GitHub, GitHub Actions, Linux, C#, .NET" />
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,sqlite,redis,js,html,css,bootstrap,docker,git,github,githubactions,linux,cs,dotnet&perline=8" alt="Python, Django, PostgreSQL, SQLite, Redis, JavaScript, HTML, CSS, Bootstrap, Docker, Git, GitHub, GitHub Actions, Linux, C sharp and .NET" />
 </p>
 
 | Area | Technologies |
 |---|---|
-| **Languages** | Python, JavaScript, SQL; learning C# |
-| **Backend** | Django, Django ORM, migrations, management commands, REST API integration, webhooks |
-| **Data** | PostgreSQL (Neon), SQLite, Redis (Upstash), schema design, query optimization |
-| **Security** | Email OTP, RBAC, rate limiting, CSRF protection, input validation, audit logging, Fernet, HMAC |
-| **Frontend** | HTML5, CSS3, Bootstrap 5, JavaScript, PWA |
-| **Integrations** | Razorpay, Google Gemini, Telegram Bot API, TMDB, TVMaze, Jikan, AniList, Cloudinary, Brevo |
-| **Testing & CI** | Django test framework (tests implemented using AI tools), Git, GitHub, GitHub Actions |
-| **Deployment** | Render, Netlify, Gunicorn, WhiteNoise, Docker, Linux |
-| **Training / exposure** | Jenkins, Ansible, Bash, AWS fundamentals, ASP.NET Core basics |
+| Languages | Python, JavaScript, SQL; C# (learning) |
+| Backend | Django, Django ORM, migrations, management commands, REST API integration, webhooks; ASP.NET Core fundamentals |
+| Databases and caching | PostgreSQL (Neon), SQLite, Redis (Upstash), schema design, query optimization |
+| Authentication and security | Email OTP, role-based access control, rate limiting, CSRF protection, input validation, audit logging, Fernet encryption, HMAC verification |
+| Frontend | HTML5, CSS3, Bootstrap 5, JavaScript, Progressive Web Apps |
+| APIs and services | Razorpay, Google Gemini, Telegram Bot API, TMDB, TVMaze, Jikan, AniList, Cloudinary, Brevo |
+| DevOps and deployment | Git, GitHub Actions, Docker, Linux, Render, Netlify, Gunicorn, WhiteNoise |
+| Additional exposure | Jenkins, Ansible, Bash, AWS fundamentals, ReportLab, BeautifulSoup |
 
 ---
 
 ## Experience
 
-**Python Programming Intern, Prasunet** · Remote · Mar 2025 – Apr 2025
-Python scripting, file handling, functions and modular programming.
+**Python Programming Intern — Prasunet** · Remote · March 2025 – April 2025  
+Worked on Python scripting, file handling, functions and modular programming.
 
-**Full Stack Developer Intern, Vaishnav Technologies** · Remote · Feb 2025 – Mar 2025
-Built web apps with Django, HTML, CSS, JavaScript and Bootstrap; managed media with Cloudinary; deployed on Render using Git/GitHub workflows.
+**Full Stack Developer Intern — Vaishnav Technologies** · Remote · February 2025 – March 2025  
+Worked on web applications with Django, HTML, CSS, JavaScript and Bootstrap; managed media with Cloudinary and deployed applications on Render using Git and GitHub workflows.
 
-**Data Entry Intern, Rural Field Survey Program** · May 2022 – Jun 2022
-Survey data collection and validation; organised data in Microsoft Excel.
+**Data Entry Intern — Rural Field Survey Program** · May 2022 – June 2022  
+Supported survey data collection and validation, and organised information using Microsoft Excel.
+
+---
 
 ## Education
 
-**B.Tech, Computer Engineering** · Godavari College of Engineering, Jalgaon (DBATU)
-2022 – 2026 · CGPA 7.2 / 10
+**B.Tech in Computer Engineering**  
+Godavari College of Engineering, Jalgaon (DBATU) · 2022–2026 · CGPA: 7.2/10
 
-## Certifications & Training
+---
 
-- **Red Hat:** RH124 (System Administration I), RH104 (Linux Fundamentals), DO101 (Intro to OpenShift Applications)
+## Certifications and training
+
+- **Red Hat:** System Administration I (RH124), Linux Fundamentals (RH104), Introduction to OpenShift Applications (DO101)
 - **Simplilearn SkillUp:** Python 3.x, SQL for Data Analysis, Web Scraping with BeautifulSoup
 - **NSDC / Skill India:** Web Design and Development
-- **IIT Bombay Spoken Tutorial:** Python, Java
-- **DevOps Bootcamp:** Jenkins, Docker, Linux, AWS, Ansible, Bash
-- **Smart India Hackathon 2024**; six-day Python programming workshop
+- **IIT Bombay Spoken Tutorial:** Python and Java
+- **DevOps Bootcamp:** Jenkins, Docker, Linux, AWS, Ansible and Bash scripting
+- **Other:** Smart India Hackathon 2024; six-day Python programming workshop
 
 [View certificates](https://drive.google.com/drive/folders/1Iwxvmfb4jzhRlW1Vq3ToGJekdggKDhWM?usp=drive_link)
 
-## Leadership
-
-- Team lead and developer on two academic projects
-- Took part in two college-level hackathons; selected for the next round of the Avishkar Research Competition (team)
-
 ---
 
-## Currently
+## Currently learning and exploring
 
-- Deepening Django, PostgreSQL, query performance and application security
-- Growing my Docker, CI/CD and cloud fundamentals
-- Learning C# and ASP.NET Core through a cross-stack project
+- Strengthening Django, PostgreSQL, database design and application security
+- Improving Docker, CI/CD and cloud deployment fundamentals
+- Learning C# and ASP.NET Core through SceneSeek
 
-I'm looking for a **Python / Django / Backend / Full Stack** role where I can contribute to a team and learn from experienced engineers.
+I'm looking for an opportunity as a **Python / Django / Backend Developer** where I can contribute to real products, learn from an experienced team and continue growing as an engineer.
 
 ---
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jayeshkalkate&show_icons=true&theme=tokyonight&hide_border=true" alt="Jayesh's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayeshkalkate&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages" />
-</p>
 
 <div align="center">
 
-**Let's connect:** [Portfolio](https://devjayesh-portfolio.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/jayesh-kalkate-31a250242/) · [kalkatejayesh@gmail.com](mailto:kalkatejayesh@gmail.com)
+### Let's connect
 
-*Building, learning and improving, one project at a time.*
+[Portfolio](https://devjayesh-portfolio.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/jayesh-kalkate-31a250242/) · [Email](mailto:kalkatejayesh@gmail.com) · [GitHub](https://github.com/Jayeshkalkate)
+
+*Building practical solutions, one problem at a time.*
 
 </div>
