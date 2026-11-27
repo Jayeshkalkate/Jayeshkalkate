@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5b8cff,100:2dd4bf&height=220&section=header&text=Jayesh%20Kalkate&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=fadeIn&desc=Python%20%C2%B7%20Django%20%C2%B7%20Backend%20%26%20Full-Stack%20Developer&descSize=18&descAlignY=60" alt="Jayesh Kalkate - Python, Django, Backend and Full-Stack Developer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5b8cff,100:2dd4bf&height=220&section=header&text=Jayesh%20Kalkate&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=fadeIn&desc=Python%20%C2%B7%20Django%20%C2%B7%20Backend%20and%20Full-Stack%20Developer&descSize=18&descAlignY=60" alt="Jayesh Kalkate - Python, Django, Backend and Full-Stack Developer" width="100%" />
 
 <a href="https://github.com/Jayeshkalkate">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=5B8CFF&center=true&vCenter=true&width=700&lines=I+build+database-driven+web+applications;Django+%C2%B7+PostgreSQL+%C2%B7+REST+APIs+%C2%B7+Docker;Shipping+real+projects+for+real+local+businesses;Open+to+Backend+%2F+Full-Stack+%2F+DevOps+roles" alt="Typing animation" />
