@@ -31,7 +31,8 @@ I enjoy the backend most (databases, APIs, authentication, payments), plus the f
 
 | | |
 |---|---|
-| 🔭 **Working on** | [SceneSeek](https://github.com/Jayeshkalkate/SceneSeek): find a movie, series or anime from a screenshot or clip |
+| 🚀 **Recently shipped** | [SceneSeek](https://github.com/Jayeshkalkate/SceneSeek): find a movie, series or anime from a screenshot or clip |
+| 🔭 **Working on** | [LokSetu](https://github.com/Jayeshkalkate/loksetu): a civic complaint and citizen services platform |
 | 🌱 **Learning** | C# and ASP.NET Core, Docker, CI/CD and cloud deployment |
 | 💼 **Looking for** | A first role as a Python / Django / Backend (or junior Full-Stack / DevOps) developer |
 
